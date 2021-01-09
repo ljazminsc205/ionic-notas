@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "storied-core-254701": {
+      "hosting": {
+        "app": [
+          "storied-core-254701"
+        ]
+      }
+    }
+  }
+}
